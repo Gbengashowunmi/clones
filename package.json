@@ -1,6 +1,7 @@
 {
-  "author": "Gbenga Showunmi",
+  
   "name": "fcc-learn-npm-package-json",
+  "author": "Gbenga Showunmi",
   "dependencies": {
     "express": "^4.14.0"
   },
